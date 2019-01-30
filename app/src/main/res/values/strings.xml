@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">حكايات السندباد</string>
+    <string-array name="stories">
+        <item>حكاية السندباد</item>
+        <item>الجزيرة المتحركه والخيول البحريه</item>
+        <item> وادى الألماس</item>
+        <item>الغول الأسود</item>
+        <item>السندباء يدفن حى</item>
+        <item>شيخ البحر</item>
+        <item> رحله نهرية فى كهف</item>
+        <item>مقبرة الافيال</item>
+    </string-array>
+</resources>
